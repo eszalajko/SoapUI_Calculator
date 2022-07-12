@@ -1,1 +1,1 @@
-Second_branch
+Testowy plik do cwiczenia. Second_branch
