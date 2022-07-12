@@ -1,1 +1,1 @@
-Testowy plik do cwiczenia. Master
+Testowy plik do cwiczenia. Branch Master
