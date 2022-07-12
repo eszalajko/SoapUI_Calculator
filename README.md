@@ -1,1 +1,1 @@
-Testowy plik do cwiczenia. Thirth Branch to merge
+Testowy plik do cwiczenia. Thirth Branch for merge
